@@ -46,7 +46,7 @@ function monitorPm2Processes() {
 
       processList.forEach(function (processInfo) {
         var processMetrics = {
-          name: 'pm2ProcessListProd',
+          name: 'pm2ProcessList',
           type: 'gauge',
           value: 0,
           timestamp: Date.now(),
