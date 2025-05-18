@@ -35,7 +35,7 @@ npm install -g pm2
 
 ### 2. Clone this plugin or add the files to your Node.js app:
 
-git clone https://github.com/your-username/pm2-newrelic-monitor.git
+git clone https://github.com/Vibhav15/pm2-plugin.git
 cd pm2-newrelic-monitor
 
 ### 3. Create a config.json file:
