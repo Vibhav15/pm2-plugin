@@ -1,0 +1,6 @@
+
+{
+  "nrlicense": "Add Your LICENSE",
+  "nrurl": "https://platform-api.newrelic.com/platform/v1/metrics",
+  "pollinterval": "10000"
+}
